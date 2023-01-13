@@ -14,7 +14,7 @@
 │   
 ├── Web Applications
 │   ├── Django 
-│   └── 
+│   └── socket
 ├── Audio or Video-based Applications
 │   ├── Gstreamer
 │   ├── Pyglet

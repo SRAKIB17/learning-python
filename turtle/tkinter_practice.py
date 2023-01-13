@@ -15,8 +15,8 @@ import random
 root = Tk()
 root.geometry("1000x1000")
 root.configure(background="grey")
-
 root.title("Canvas - Draw Shapes")
+
 root.resizable(True, True)
 
 canvas = Canvas(root, width=500, height=500)
